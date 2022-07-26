@@ -1,0 +1,16 @@
+.pie {
+    background-color: #ff5050;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+.twentyfourpx {
+    font-size: 24px;
+}
+#two{
+    color: #0000ff;
+    font-size: 36px;
+}
+#four{
+    background-color: rgb(154, 209, 154);
+    font-weight: 700;
+    font-size: 24px;
+}
